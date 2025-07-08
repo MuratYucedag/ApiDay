@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35527.113 d17.12
+VisualStudioVersion = 17.12.35527.113
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiDay.EntityLayer", "ApiDay.EntityLayer\ApiDay.EntityLayer.csproj", "{07D26393-02A0-4D7B-B1D0-466383ADF1BB}"
 EndProject
@@ -10,6 +10,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiDay.BusinessLayer", "ApiDay.BusinessLayer\ApiDay.BusinessLayer.csproj", "{F7C98FCE-59C0-422E-9E0C-F80B85BB17FC}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiDay.WebApi", "ApiDay.WebApi\ApiDay.WebApi.csproj", "{BE4CFF1B-C832-4F10-AA30-9244BECEA5B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiDay.WebUI", "ApiDay.WebUI\ApiDay.WebUI.csproj", "{4B2CFBCD-7F58-454E-B0C9-9D728A7573C9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{BE4CFF1B-C832-4F10-AA30-9244BECEA5B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BE4CFF1B-C832-4F10-AA30-9244BECEA5B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BE4CFF1B-C832-4F10-AA30-9244BECEA5B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B2CFBCD-7F58-454E-B0C9-9D728A7573C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B2CFBCD-7F58-454E-B0C9-9D728A7573C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B2CFBCD-7F58-454E-B0C9-9D728A7573C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B2CFBCD-7F58-454E-B0C9-9D728A7573C9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
